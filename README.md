@@ -78,4 +78,4 @@ Este projeto está licenciado sob a MIT License.
 
 ## Autor
 
-**Anthony Guerra [E-mail](guerra.anthony122@gmail.com)**
+**Anthony Guerra E-mail:guerra.anthony122@gmail.com**
